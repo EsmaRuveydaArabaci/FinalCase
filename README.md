@@ -1,2 +1,2 @@
-# FinalCaseTaslak
+# FinalCase
 Kızbaşına Bootcamp final case repository
