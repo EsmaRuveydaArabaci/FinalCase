@@ -9,6 +9,7 @@ Analizler Kaggle ortamında gerçekleştirilmiş Google Colab'a yüklenmiştir.
 
 📊 2. Case: Power BI ile Marka Bazlı Raporlama (Marka: ETİ)
 Bu projede, verilen veri seti üzerinden bir marka seçmem istendi. ETİ markası seçilerek analizler bu marka özelinde yapılmıştır.
+
 https://drive.google.com/drive/folders/1gTZ_zgABHv7L0D8MDyzLkh3PP3R5VdrI?usp=drive_link
 
 <img width="1367" height="771" alt="Giriş Sayfası" src="https://github.com/user-attachments/assets/764b3dc5-31f0-4c37-99f4-fa33dc8eb7d7" />
