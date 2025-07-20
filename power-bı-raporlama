@@ -1,0 +1,11 @@
+📊 ETİ Power BI Dashboard Projesi
+Bu proje, Power BI kullanılarak hazırlanmış bir veri görselleştirme çalışmasıdır. 
+Veriler SQL Server ve CSV dosyalarından alınmış, “ETİ” markasına odaklanılarak analizler gerçekleştirilmiştir.
+
+💡 Notlar
+Tüm ölçümler yalnızca ETİ markası filtrelenerek hesaplanmıştır.
+“Genç” yaş grubunda ETİ müşteri verisi bulunmadığı için o bölümde “Yetişkin” grubuyla analiz yapılmıştır.
+
+🗃 Rapor Dosyası
+.pbix üzentılı Power BI dosyasına ve rapora dair ekran görüntülerine bu drive linki üzerinden ulaşabilirsiniz:  
+      https://drive.google.com/file/d/1yQohOfuF2K8InPXoIb6UCck-K4vnrw_E/view?usp=sharing
